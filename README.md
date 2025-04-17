@@ -1,5 +1,4 @@
 # Sky-Game-Dev
-
 # 🎮 About Sky Dev Group
 **Hey there! 👋 We're Sky Dev Group**  
 A bunch of SMK students starting our coding journey together!  
