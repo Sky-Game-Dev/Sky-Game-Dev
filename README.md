@@ -1,7 +1,7 @@
 # Sky-Game-Dev
 # 🎮 About Sky Dev Group  
 **Hey there! 👋 We're Sky Dev Group**  
-A group of SMK students exploring the world of coding together!  
+A group of Vocational High School students exploring the world of coding together!  
 Just starting out, but excited to learn and create.  
 
 ## 🌱 What We're Learning  
