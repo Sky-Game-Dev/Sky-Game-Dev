@@ -17,7 +17,7 @@ Just starting out, but excited to learn and create.
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-000000?style=for-the-badge&logo=python&logoColor=white)  
 
 ## 🛠️ Coming Soon Projects  
-*# Horror School*  
+*# Cozy Caravan*  
 
 ## 👥 Our Team  
 | Role           | Badges |  
